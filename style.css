@@ -1,0 +1,217 @@
+body {
+    /*background: #f2efe5;*/
+    background: #f4f0e1;
+}
+.welcome h1 {
+    position: relative;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 60px;
+    left: 70px;
+    top: 127px;
+    width: 431px;
+    font-weight: 500;
+}
+.welcome h2 {
+     position: relative;
+    font-family: 'Poppins';
+    font-size: 27px;
+    margin: auto;
+    width: 800px;
+    top: 130px;
+}
+.welcome h3 {
+   font-size: 40px;
+    left: -9px;
+    width: 800px;
+    top: 199px;
+    margin: auto;
+    position: relative;
+    font-family: 'poppins';
+}
+.welcome button {
+    position: relative;
+    width: 550px;
+    height: 120px;
+    background: #5476aa;
+    border: none;
+    font-size: 40px;
+    border-radius: 100px;
+    color: #fff;
+    font-family: 'Varela Round', sans-serif;
+    top: 291px;
+    left: 204px;
+}
+
+.fullname h1{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 60px;
+    font-weight: 300;
+    text-align: center;
+    position: relative;
+    top: 150px;
+}
+.fullname #first {
+    font-family: 'Varela Round', sans-serif;
+    width: 377px;
+    height: 79px;
+    font-size: 50px;
+    border: none;
+    position: relative;
+    top: 200px;
+    left: 64px;
+    text-align: center;
+} 
+.fullname #last {
+    font-family: 'Varela Round', sans-serif;
+    width: 440px;
+    height: 79px;
+    font-size: 50px;
+    border: none;
+    position: relative;
+    top: 200px;
+    left: 74px;
+    text-align: center;
+} 
+.fullname h2 {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Varela Round', sans-serif;
+    color: #5a5a5a;
+    position: relative;
+    top: 231px;
+    font-weight: 600;
+}
+.fullname button {
+    position: relative;
+    width: 400px;
+    height: 100px;
+    background: #5476aa;
+    border: none;
+    font-size: 40px;
+    border-radius: 100px;
+    color: #fff;
+    font-family: 'Varela Round', sans-serif;
+    top: 466px;
+    left: 278px;
+}
+.fullname {
+    display: none;
+}
+.username h1{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 60px;
+    font-weight: 300;
+    text-align: center;
+    position: relative;
+    top: 150px;
+}
+.username input {
+    font-family: 'Varela Round', sans-serif;
+    width: 640px;
+    height: 79px;
+    font-size: 50px;
+    border: none;
+    border-radius: 10px;
+    position: relative;
+    top: 215px;
+    left: 155px;
+    text-align: center;
+}
+.username button {
+    position: relative;
+    width: 400px;
+    height: 100px;
+    background: #5476aa;
+    border: none;
+    font-size: 40px;
+    border-radius: 100px;
+    color: #fff;
+    font-family: 'Varela Round', sans-serif;
+    top: 466px;
+    left: 279px;
+}
+.username {
+    display: none;
+}
+.great h1 {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    text-align: center;
+    position: relative;
+    top: 89px;
+}
+.great {
+    display: none;
+}
+#err {
+    width: 102%;
+    height: 150px;
+    background: #ff3a3a;
+    position: relative;
+    top: -442px;
+    left: -16px;
+    display: none;
+}
+#err h4 {
+    color: #fff;
+    font-size: 40px;
+    font-family: 'Poppins';
+    font-weight: 100;
+    position: fixed;
+    left: 54px;
+}
+#user h3 {
+    text-align: center;
+    position: relative;
+    top: 247px;
+    font-size: 30px;
+    font-family: 'Varela Round'
+}
+.img {
+    background: #c0c0c0;
+    width: 285px;
+    border-radius: 120px;
+    height: 266px;
+    position: relative;
+    left: 340px;
+    top: 176px;
+}
+.great button {
+    position: relative;
+    width: 532px;
+    height: 111px;
+    background: #5476aa;
+    border: none;
+    font-size: 40px;
+    border-radius: 100px;
+    color: #fff;
+    font-family: 'Varela Round', sans-serif;
+    top: 318px;
+    left: 217px;
+}
+.great h4 {
+    text-align: center;
+    font-size: 33px;
+    top: 170px;
+    width: 400px;
+    left: 283px;
+    position: relative;
+    font-family: 'Varela Round';
+}
+.great h5{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 200;
+    font-family: 'Varela Round';
+    top: 314px;
+    position: relative;
+}
+.great h6 {
+    color: #8585df;
+    font-size: 11.7px;
+    position: relative;
+    font-family: 'Poppins';
+    text-align: center;
+    top: 319px;
+}
